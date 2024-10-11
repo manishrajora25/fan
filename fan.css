@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* .main{
+    width: 300px;
+    height: 250px;
+    color: white;
+    background-color: blue;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+
+}
+.main:hover{
+    background-color: red;
+    transition: 0.5s ease 2s;
+    transition: 1s linear;
+    transform: rotate(200deg);
+    
+}
+.main p:hover{
+    color: darkmagenta;
+}
+.main h3:hover{
+    color: green;
+} */
+
+
+.the{
+    height: 100px;
+    width: 100px;
+    margin: 150px;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+
+}
+.the:hover{
+    background-color:red;
+    transition: 5s linear;
+    transform: rotate(4020deg);
+}
+
+
+.box1{
+    width: 100px;
+    height: 30px;
+    background-color: green;
+    border-radius: 0px 10px 10px 0px ;
+    position: absolute;
+    left: 95px;
+    top:38px;
+}
+.box1.one{
+    width: 100px;
+    height: 30px;
+    background-color: green;
+    border-radius: 10px 0px 0px 10px ;
+    position: absolute;
+    left: -99px;
+}
+.box.two{
+    width: 30px;
+    height: 100px;
+    background-color: green;
+    border-radius: 10px 10px 0px 0px ;
+    position: absolute;
+    left: 35px;
+    bottom: 95px;   
+}
+
+.box.three{
+    width: 30px;
+    height: 100px;
+    background-color: green;
+    border-radius: 0px 0px 10px 10px ;
+    position: absolute;
+   left: 35px;
+   top: 98px;
+}
+
+
+
+
+
+
