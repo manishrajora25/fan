@@ -41,7 +41,7 @@
 .the:hover{
     background-color:red;
     transition: 5s linear;
-    transform: rotate(4020deg);
+    transform: rotate(6020deg);
 }
 
 
